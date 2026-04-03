@@ -42,9 +42,9 @@ layers:
   - LEFT GUI
   - {t: SPACE, h: LEFT CONTROL}
   - {t: LANGUAGE 2, h: LEFT SHIFT}
-  - {t: SPACE, h: Fnc}
-  - {t: SPACE, h: Num}
-  - RIGHT BRACKET
+  - LANGUAGE 1
+  - {t: ENTER, h: RSHFT}
+  - DEL
   - EQUAL
   - INTERNATIONAL 3
   - LEFT
@@ -57,55 +57,55 @@ layers:
   - ENTER
   - PG DN
   - END
-  - A
+  - ''
   - B
   Fnc:
-  - GRAVE
-  - PG UP
-  - UP
-  - PG DN
-  - HOME
-  - {t: ▽, type: trans}
-  - F1
-  - F2
-  - F3
-  - F4
+  - ''
+  - ''
+  - ''
+  - MINUS
+  - ''
+  - ''
+  - ''
   - F5
-  - {t: ▽, type: trans}
-  - '&tog_ls'
-  - LEFT
-  - DOWN
-  - RIGHT
-  - END
-  - {t: ▽, type: trans}
-  - F6
-  - F7
-  - F8
-  - {t: F9, type: held}
-  - F10
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - BKSP
-  - DEL
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - F11
-  - F12
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - LALT
-  - ENTER
-  - ENTER
-  - ENTER
-  - ENTER
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Sft+Gui+S
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Sft+INTERNATIONAL 1
+  - INTERNATIONAL 1
+  - ''
+  - ''
+  - '&mkp LCLK'
+  - '&mkp RCLK'
+  - {type: held}
+  - Mouse
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '&mkp MB5'
+  - '&mkp MB4'
+  - Gui+TAB
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - LSHIFT
+  - RIGHT BRACKET
+  - NON US HASH
+  - BACKSPACE
+  - ''
+  - ''
+  - ''
   - LEFT
   - UP
   - SPACE
@@ -116,55 +116,55 @@ layers:
   - ENTER
   - PG DN
   - END
-  - A
-  - B
+  - ''
+  - ''
   Num:
-  - CAPS
-  - '1'
-  - '2'
-  - '3'
-  - '4'
-  - '5'
-  - '6'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - Sft+APOS
   - '7'
   - '8'
   - '9'
-  - '0'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - ''
+  - Scr
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ''
+  - Sft+F10
+  - ''
+  - Sft+SEMICOLON
+  - '4'
+  - '5'
+  - '6'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '0'
+  - '1'
+  - '2'
+  - '3'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - LEFT SHIFT
   - MINUS
-  - EQUAL
-  - LBKT
-  - RBKT
-  - BSLH
-  - {t: ▽, type: trans}
-  - {t: SPACE, h: LSHFT}
-  - BACKSPACE
-  - DEL
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - FSLH
-  - SEMI
-  - SQT
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - ENTER
-  - ENTER
-  - ENTER
-  - ENTER
-  - ENTER
-  - ENTER
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Sft+MINUS
+  - ''
+  - ''
+  - ''
   - LEFT
   - UP
   - SPACE
@@ -175,55 +175,55 @@ layers:
   - ENTER
   - PG DN
   - END
-  - A
-  - B
+  - ''
+  - ''
   Mouse:
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '&mkp MB1'
-  - '&mkp MB3'
-  - '&mkp MB2'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - ''
+  - UP ARROW
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - LEFT ARROW
+  - DOWN ARROW
+  - RIGHT
+  - ''
+  - ''
+  - ''
+  - ''
+  - {type: held}
+  - {type: held}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - LEFT ALT
+  - ''
+  - ''
+  - F15
+  - ''
+  - ''
+  - ''
   - LEFT
   - UP
   - SPACE
@@ -234,55 +234,55 @@ layers:
   - ENTER
   - PG DN
   - END
-  - A
-  - B
+  - ''
+  - ''
   Scr:
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '&mkp MB1'
-  - '&mkp MB3'
-  - '&mkp MB2'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - F12
+  - F7
+  - F8
+  - F9
+  - ''
+  - ''
+  - ''
+  - {type: held}
+  - {type: held}
+  - ''
+  - Sft+Ctl+F
+  - ''
+  - F11
+  - F4
+  - F5
+  - F6
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - F10
+  - F1
+  - F2
+  - F3
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - F12
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - LEFT
   - UP
   - SPACE
@@ -293,64 +293,5 @@ layers:
   - ENTER
   - PG DN
   - END
-  - A
-  - B
-  BT:
-  - BT CLR
-  - {t: BT, h: '0'}
-  - {t: BT, h: '1'}
-  - {t: BT, h: '2'}
-  - {t: BT, h: '3'}
-  - {t: BT, h: '4'}
-  - BT CLR ALL
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - LEFT
-  - UP
-  - SPACE
-  - DOWN
-  - RIGHT
-  - HOME
-  - PG UP
-  - ENTER
-  - PG DN
-  - END
-  - A
-  - B
+  - ''
+  - ''
